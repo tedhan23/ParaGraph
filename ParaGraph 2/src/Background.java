@@ -1,8 +1,4 @@
-import javax.swing.*;
-import javax.swing.SwingUtilities;
 import java.awt.*;
-import java.util.*;
-import java.awt.event.*;
 
 public class Background {
 	public static void drawBackground(Graphics2D g2, int width, int height, double scale, int [] ori)
