@@ -48,6 +48,6 @@ public class Background {
         g2.drawString("f'(t) in blue", width-375, 100);
         
         g2.setColor(Color.GREEN);
-        g2.drawString("Antiderivative in green", width-375, 125);
+        //g2.drawString("Antiderivative in green", width-375, 125);
 	}
 }
